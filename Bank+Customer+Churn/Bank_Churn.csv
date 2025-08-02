@@ -1,0 +1,11 @@
+Churn,Yes,,,Churn,Yes,,,Churn,Yes,,,Churn,Yes,,,Churn,Yes,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+Row Labels,Count of Churn,,,Row Labels,Count of Churn,,,Row Labels,Count of Churn,,,Row Labels,Count of Churn,,,Row Labels,Count of Churn,,,Row Labels,Count of CustomerId,,,Count of CustomerId
+France,810,,,18-27,73,,,No,1302,,,1,1409,,,0-50000,526,,,No,79.63%,,,10000
+Germany,814,,,28-37,389,,,Yes,735,,,2,348,,,50000-100000,300,,,Yes,20.37%,,,
+Spain,413,,,38-47,786,,,Grand Total,2037,,,3,220,,,100000-150000,987,,,Grand Total,100.00%,,,
+Grand Total,2037,,,48-57,583,,,,,,,4,60,,,150000-200000,205,,,,,,,
+,,,,58-67,183,,,,,,,Grand Total,2037,,,200000-250000,18,,,,,,,
+,,,,68-77,22,,,,,,,,,,,250000-300000,1,,,,,,,
+,,,,78-87,1,,,,,,,,,,,Grand Total,2037,,,,,,,
+,,,,Grand Total,2037,,,,,,,,,,,,,,,,,,,
